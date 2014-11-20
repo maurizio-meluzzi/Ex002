@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Ex002</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="edit_text_01_hint">Type some text here</string>
+    <string name="send_button_01_text">Send</string>
+
+</resources>

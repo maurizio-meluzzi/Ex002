@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Configuración</string>
+
+    <string name="edit_text_01_hint">Escribir aquí</string>
+    <string name="send_button_01_text">Enviar</string>
+
+</resources>
